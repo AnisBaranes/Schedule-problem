@@ -1,0 +1,19 @@
+                avi    ron    dan    gal    sharon rotem  tal    
+Sun-morning      0      0      0      1      0      0      1      
+Sun-evening      1      0      0      0      0      0      0      
+Mon-morning      0      0      1      0      0      0      0      
+Mon-evening      1      1      0      0      0      0      1      
+Tue-morning      0      0      0      0      0      0      0      
+Tue-evening      0      0      1      0      0      0      0      
+Wed-morning      1      0      0      0      0      0      0      
+Wed-evening      0      0      0      0      0      0      0      
+Thu-morning      1      0      0      0      0      0      0      
+Thu-evening      0      0      0      0      0      1      0      
+Fri-morning      1      0      0      0      1      0      0      
+Sat-evening      0      0      0      0      0      0      0      
+      
+	  
+	  
+	  
+	  
+	  
